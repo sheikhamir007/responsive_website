@@ -1,0 +1,99 @@
+
+
+.bgOne{
+    background-color: rgb(7, 214, 204);
+    color: green;
+}
+.bigTwo{
+    background-color: rgb(42, 47, 47);
+    font-size: 20px;
+}
+
+.color1{
+    background-color:rgb(83, 88, 20);
+    width: 100px;
+    height: 60px;
+}
+
+.color2{
+    background-color:rgb(95, 159, 153);
+    width: 100px;
+    height: 60px;
+}
+
+.color3{
+    background-color:rgb(89, 30, 98);
+    width: 100px;
+    height: 60px;
+}
+
+.color4{
+    background-color:red;
+    width: 100px;
+    height: 60px;
+}
+
+
+.color5{
+    background-color:rgb(97, 147, 149);
+    width: 100px;
+    height: 60px;
+}
+
+.color6{
+    background-color:rgb(184, 61, 123);
+    width: 100px;
+    height: 60px;
+}
+
+.color7{
+    background-color:rgb(14, 208, 7);
+    width: 100px;
+    height: 60px;
+}
+
+.color8{
+    background-color:rgb(193, 220, 16);
+    width: 100px;
+    height: 60px;
+}
+
+.color9{
+    background-color:rgb(199, 11, 165);
+    width: 100px;
+    height: 60px;
+}
+
+.color10{
+    background-color:rgb(9, 153, 179);
+    width: 100px;
+    height: 60px;
+}
+.color11{
+    background-color:rgb(92, 51, 159);
+    width: 100px;
+    height: 60px;
+}
+.color12{
+    background-color:rgb(30, 18, 18);
+    width: 100px;
+    height: 60px;
+}
+.ok{
+    width: 30%;
+    height: 500px;
+    background-color: red;
+}
+
+.ok2{
+    width: 30%;
+    height: 500px;
+    background-color: rgb(74, 73, 73);
+    margin: 0px 20px;
+}
+
+.ok3{
+    width: 30%;
+    height: 500px;
+    background-color: rgb(238, 255, 0);
+}
